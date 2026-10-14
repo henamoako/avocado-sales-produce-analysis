@@ -1,0 +1,5 @@
+Avocado Sales & Produce Market Analysis
+
+I analyzed weekly Hass avocado retail sales data from 2015–2018, originally published by the Hass Avocado Board, using Python, Pandas, NumPy, Matplotlib, and Seaborn. I cleaned and transformed the data, examined price and sales-volume trends, compared organic and conventional avocados, and analyzed regional and time-based patterns. I also structured the project to support probability analysis, confidence intervals, hypothesis testing, and chi-square analysis.
+
+The project demonstrates my ability to work with real produce-market data, clean messy information, identify useful patterns, and communicate findings visually. For a produce wholesaler, the same approach could be extended to recurring sales, pricing, purchasing, inventory, and operational data to reduce manual work and support faster decision-making.
